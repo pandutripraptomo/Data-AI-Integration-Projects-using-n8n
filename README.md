@@ -2,6 +2,7 @@
 
 Welcome to a collection of n8n workflows that leverage artificial intelligence and data integration to automate a wide range of tasks. This repository is designed for anyone looking to maximize productivity without writing complex code, from marketers to data analysts and developers.
 
+![n8n workflows](https://github.com/mobinmithun/claude-project-to-n8n-workflow/blob/main/Media/n8n%20workflows.gif)
 -----
 
 ### **Why This Project?** ✨
